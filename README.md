@@ -1,5 +1,7 @@
 #img_slider
 
+a simple img_fader created with jquery
+
 AUTHOR: AICHBAUER LUKAS
 
 email: rudolfson.junior@gmail.com
@@ -36,17 +38,11 @@ css
     sliderWindow
     {
        position: relative;
-       
        width: CHANGE ME;
-       
        height: CHANGE ME;
-       
        margin: 0 auto;
-       
        padding: 0;
-       
        overflow: hidden;
-       
        border: solid grey;
     }
     
