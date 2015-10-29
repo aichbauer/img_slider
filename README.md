@@ -14,8 +14,10 @@ email: rudolfson.junior@gmail.com
 
 import the css and the js file to your html file.
 
+don't forget to import jQuery in your project... import it in front of the img_slider.js
+
     <link rel="stylesheet" type="text/css" href="http://localhost/tuts/img_slider_tut/css/img_slider.css" />
-    <script type="text/javascript" src="http://localhost/tuts/img_slider_tut/js/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="http://localhost/tuts/img_slider_tut/js/JQUERY.js"></script>
     <script type="text/javascript" src="http://localhost/tuts/img_slider_tut/js/img_slider.js"></script>
 
 create a new div in your html file
